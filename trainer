@@ -56,7 +56,7 @@ logo = """
 \033[1;96m         ____) | |_) |  __/  __/ (_| | |
 \033[1;96m        |_____/| .__/ \___|\___|\__,_|_|
 \033[1;96m               | |                      
-\033[1;96m               |_|   Aahil Updated 0.3                   
+\033[1;96m               |_|   Latest Updated 0.3                   
 \033[1;91m       ♦♦♦———————————————————————————————♦♦♦
 """
 def tik():
@@ -97,8 +97,8 @@ jalan("\033[1;96m•◈•  \___ \|  ___/|  __| |  __| | |  | || |  ")
 jalan("\033[1;96m•◈•  ____) | |    | |____| |____| |__| || |_ ")
 jalan("\033[1;96m•◈• |_____/|_|    |______|______|_____/_____|")
  
-jalan("   \033[1;91m INDAIN USERZ USE ANY PROXY ")	
-jalan("   \033[1;91m WIFI USERZ USE ANY PROXY ")	
+jalan("   \033[1;91m BANGLADESHI User's Use Any Proxy ")	
+jalan("   \033[1;91m Wi-Fi User's Use Any Proxy ")	
 
 jalan("   \033[1;93m Welcome to UnKnown Trainer ")
 
